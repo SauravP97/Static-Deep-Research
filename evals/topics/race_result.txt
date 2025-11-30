@@ -1,0 +1,153 @@
+Topic: Finance & Business
+  Overall Score: 0.3265
+  Comprehensiveness: 0.3396
+  Insight: 0.2835
+  Instruction Following: 0.3673
+  Readability: 0.3304
+
+Topic: Science & Technology
+  Overall Score: 0.3222
+  Comprehensiveness: 0.3268
+  Insight: 0.2928
+  Instruction Following: 0.3507
+  Readability: 0.3354
+
+Topic: Software Development
+  Overall Score: 0.3371
+  Comprehensiveness: 0.3482
+  Insight: 0.2878
+  Instruction Following: 0.3716
+  Readability: 0.3541
+
+Topic: Education & Jobs
+  Overall Score: 0.3568
+  Comprehensiveness: 0.3593
+  Insight: 0.3090
+  Instruction Following: 0.4059
+  Readability: 0.3650
+
+Topic: Health
+  Overall Score: 0.3922
+  Comprehensiveness: 0.3883
+  Insight: 0.3469
+  Instruction Following: 0.4593
+  Readability: 0.3790
+
+Topic: Literature
+  Overall Score: 0.3116
+  Comprehensiveness: 0.2954
+  Insight: 0.2343
+  Instruction Following: 0.3909
+  Readability: 0.3324
+
+Topic: History
+  Overall Score: 0.3960
+  Comprehensiveness: 0.4089
+  Insight: 0.3655
+  Instruction Following: 0.4170
+  Readability: 0.4028
+
+Topic: Hardware
+  Overall Score: 0.3781
+  Comprehensiveness: 0.3788
+  Insight: 0.3043
+  Instruction Following: 0.4303
+  Readability: 0.3899
+
+Topic: Industrial
+  Overall Score: 0.3458
+  Comprehensiveness: 0.3655
+  Insight: 0.2973
+  Instruction Following: 0.3752
+  Readability: 0.3615
+
+Topic: Art & Design
+  Overall Score: 0.3470
+  Comprehensiveness: 0.3672
+  Insight: 0.3003
+  Instruction Following: 0.3871
+  Readability: 0.3492
+
+Topic: Games
+  Overall Score: 0.2917
+  Comprehensiveness: 0.2505
+  Insight: 0.2608
+  Instruction Following: 0.2713
+  Readability: 0.4453
+
+Topic: Crime & Law
+  Overall Score: 0.3446
+  Comprehensiveness: 0.3442
+  Insight: 0.3062
+  Instruction Following: 0.4094
+  Readability: 0.3186
+
+Topic: Entertainment
+  Overall Score: 0.2977
+  Comprehensiveness: 0.2533
+  Insight: 0.2304
+  Instruction Following: 0.3211
+  Readability: 0.3326
+
+Topic: Sports & Fitness
+  Overall Score: 0.3472
+  Comprehensiveness: 0.3125
+  Insight: 0.3273
+  Instruction Following: 0.4214
+  Readability: 0.3070
+
+Topic: Software
+  Overall Score: 0.3044
+  Comprehensiveness: 0.3052
+  Insight: 0.2546
+  Instruction Following: 0.3538
+  Readability: 0.3347
+
+Topic: Transportation
+  Overall Score: 0.3593
+  Comprehensiveness: 0.3470
+  Insight: 0.3318
+  Instruction Following: 0.3988
+  Readability: 0.3575
+
+Topic: Religion
+  Overall Score: 0.3708
+  Comprehensiveness: 0.3645
+  Insight: 0.3637
+  Instruction Following: 0.4108
+  Readability: 0.3528
+
+Topic: Home & Hobbies
+  Overall Score: 0.3582
+  Comprehensiveness: 0.3820
+  Insight: 0.3291
+  Instruction Following: 0.4156
+  Readability: 0.2924
+
+Topic: Travel
+  Overall Score: 0.3710
+  Comprehensiveness: 0.4117
+  Insight: 0.3168
+  Instruction Following: 0.3993
+  Readability: 0.3551
+
+Topic: Food & Dining
+  Overall Score: 0.3940
+  Comprehensiveness: 0.3942
+  Insight: 0.3423
+  Instruction Following: 0.4169
+  Readability: 0.4513
+
+Topic: Fashion & Beauty
+  Overall Score: 0.3788
+  Comprehensiveness: 0.3761
+  Insight: 0.3505
+  Instruction Following: 0.4333
+  Readability: 0.3525
+
+Topic: Social Life
+  Overall Score: 0.4421
+  Comprehensiveness: 0.4621
+  Insight: 0.4175
+  Instruction Following: 0.4823
+  Readability: 0.4072
