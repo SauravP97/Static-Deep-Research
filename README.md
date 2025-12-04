@@ -1,4 +1,4 @@
-# Static Deep Research Agent (Static-DRA)
+# Static-DRA: A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent
 
 A configurable and hierarchical tree-based static Deep Research Agent designed to overcome the limitations of standard RAG pipelines for complex, multi-turn research tasks.
 
