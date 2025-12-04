@@ -43,6 +43,18 @@ We evaluated Static-DRA against the DeepResearch Bench using the RACE (Reference
   - Depth: `2`
   - Breadth: `5`
 
+### Comparison vs State of the Art
+
+|Metric|Overall Score|Comprehensiveness|Insight|Instruction Following|Readability|
+|---|---|---|---|---|---|
+|Gemini 2.5 Pro DeepResearch|49.71|49.51|49.45|50.12|50|
+|OpenAI Deep Research|46.45|46.46|43.73|49.39|47.22|
+|Claude Research|45.00|45.34|42.79|47.58|44.66|
+|Static-DRA (Ours)|34.72|35.12|30.45|38.86|35.44|
+|Gemini 2.5 Pro-preview-05-06|31.9|31.75|24.61|40.24|32.76|
+|GPT-4o Search Preview|30.74|27.81|20.44|41.01|37.6|
+|Sonar|30.64|27.14|21.62|40.7|37.46|
+
 ### Results
 
 |Metric|Score 
@@ -52,13 +64,3 @@ We evaluated Static-DRA against the DeepResearch Bench using the RACE (Reference
 |Insight|30.45|
 |Instruction Following|38.86|
 |Readability|35.44|
-
-### Comparison vs State of the Art
-
-|Metric|Score 
-|---|---|
-|Gemini 2.5 Pro DeepResearch|49.71|
-|OpenAI Deep Research|46.45|
-|Claude Research|45.00|
-|Static-DRA (Ours)|34.72|
-|GPT-4o Search Preview|30.74|
