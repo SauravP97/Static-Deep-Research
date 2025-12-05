@@ -2,6 +2,7 @@
 
 A configurable and hierarchical tree-based static Deep Research Agent designed to overcome the limitations of standard RAG pipelines for complex, multi-turn research tasks.
 
+![Evals](./graphs/topic_score_criteria_plot.png)
 ## Overview
 
 The **Static Deep Research Agent (Static-DRA)** introduces a novel approach to autonomous research by utilizing a static workflow governed by two user-tunable parameters: Depth and Breadth. Unlike dynamic workflows that can spiral in cost and complexity, Static-DRA allows users to explicitly balance the desired quality/comprehensiveness of the research against the computational cost (LLM tokens).
@@ -30,6 +31,10 @@ The expansion of the research tree is controlled by the Depth (d) and Breadth (b
   - **Depth**: How many levels deep the agent recursively breaks down topics.
 
   - **Breadth**: The maximum number of sub-topics spawned from a single parent topic.
+
+Below are the evaluation metrics for Static-DRA at multiple configurations.
+
+![Static DRA config evals](/media/media1.png)
 
 Note: The effective breadth decreases by a factor of 2 at each deeper level to focus resources on the most relevant core topics.
 
