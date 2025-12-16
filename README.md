@@ -70,7 +70,7 @@ We evaluated Static-DRA against the DeepResearch Bench using the RACE (Reference
 |Instruction Following|38.86|
 |Readability|35.44|
 
-### Citation
+## Citation
 
 If you refer or use Static Deep Research Agent (Static-DRA) in your research, please cite my paper:
 
