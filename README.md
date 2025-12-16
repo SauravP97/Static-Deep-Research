@@ -69,3 +69,20 @@ We evaluated Static-DRA against the DeepResearch Bench using the RACE (Reference
 |Insight|30.45|
 |Instruction Following|38.86|
 |Readability|35.44|
+
+### Citation
+
+If you refer or use Static Deep Research Agent (Static-DRA) in your research, please cite my paper:
+
+```
+@misc{prateek2025hierarchicaltreebasedapproachcreating,
+      title={A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA)}, 
+      author={Saurav Prateek},
+      year={2025},
+      eprint={2512.03887},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2512.03887}, 
+}
+```
+
